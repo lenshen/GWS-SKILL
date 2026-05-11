@@ -1,0 +1,4 @@
+interface:
+  display_name: "GWS CLI Workspace"
+  short_description: "Install, configure, and use Google Workspace CLI on Windows."
+  default_prompt: "Help me install, authenticate, or use Google Workspace CLI for Gmail, Drive, Calendar, Sheets, or Docs."
